@@ -36,4 +36,4 @@ Tabel :
 2.	Data kucing
 3.	Kategori
 4.	Report
-5.	Data adoption
+5.	Data adoption.
