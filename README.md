@@ -31,7 +31,7 @@ fitur :
   4.	Menu
       
       a.	Home
-
+      ![Tak berjudul50](https://user-images.githubusercontent.com/101535774/166680453-e370520a-911b-4827-a95f-abfe64ed5311.jpg)
       b.	Adopt
       c.	report
       d.	About
